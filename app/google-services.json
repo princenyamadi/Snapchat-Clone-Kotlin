@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "773534698065",
+    "project_id": "snapchatoreo-eb82a",
+    "storage_bucket": "snapchatoreo-eb82a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773534698065:android:a6cdbf42467cecf2c58670",
+        "android_client_info": {
+          "package_name": "tech.peny.snapchatclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773534698065-bke8pqf80igsipr4rnbqld2ehn5acf6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.peny.snapchatclone",
+            "certificate_hash": "ef9d9e8f9c494a3c0d35cf9107d4dbb04f3b6ad7"
+          }
+        },
+        {
+          "client_id": "773534698065-46rk4b32v6vmh0ib6opo4udjb866u0td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqLegiAyNAOUB5PQBdukNGNQm1F3h8-S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773534698065-46rk4b32v6vmh0ib6opo4udjb866u0td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
