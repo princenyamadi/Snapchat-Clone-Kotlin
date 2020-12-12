@@ -1,5 +1,6 @@
 package tech.peny.snapchatclone
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -64,5 +65,7 @@ class MainActivity : AppCompatActivity() {
 
     fun logIn(){
 //        Move to next activity
+        val intent = Intent(this,SnapsActivity::class.java)
+        startActivity(intent)
     }
 }
